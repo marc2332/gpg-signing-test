@@ -1,1 +1,1 @@
-I am testing gpg works
+I am testing how gpg signing works
